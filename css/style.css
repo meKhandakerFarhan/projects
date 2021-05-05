@@ -1,0 +1,20 @@
+body {
+  background-color: #80ff80; }
+
+/*Home section*/
+#home {
+  background: url("../img/background.jpg") no-repeat center;
+  background-size: 1400px 600px;
+  height: 600px; }
+
+#home .title {
+  font-family: 'Zen Dots', cursive;
+  color: #e61f1f; }
+
+#home .description {
+  font-size: large;
+  color: #fff388; }
+
+/*about-us section*/
+#about {
+  background-color: #ddaf1a; }
